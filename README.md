@@ -71,12 +71,19 @@ endmodule
 ```
 ## RTL
 ## F1:
+![qq1](https://github.com/Vineesh-AI-DS/Experiment--02-Implementation-of-combinational-logic-/assets/93427254/4a0c2912-b4dd-4896-8605-79cbea53db68)
+
 
 ## F2:
+
+![qq2](https://github.com/Vineesh-AI-DS/Experiment--02-Implementation-of-combinational-logic-/assets/93427254/ac278eda-5a27-4658-a1ff-7bba9f8decf9)
 
 ## Timing Diagram
 ## F1:
+![qq3](https://github.com/Vineesh-AI-DS/Experiment--02-Implementation-of-combinational-logic-/assets/93427254/b09e5fea-aa3b-4ee3-903f-f4d06b30c353)
 
 ## F2:
+![qq4](https://github.com/Vineesh-AI-DS/Experiment--02-Implementation-of-combinational-logic-/assets/93427254/ab8302e6-9378-4200-8d04-914b9b312f1f)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
